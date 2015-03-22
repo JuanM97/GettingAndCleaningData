@@ -17,7 +17,7 @@ Script Algorithm
 * Label the merged data with the proper names from the features file
 * Output the first file - tiDyData.txt
 
-* Sort the Subject ids [1,30] ad activity names[laying, sitting, standing, walking, walking downstairs, walking upstairs], getting rid of repetitions
+* Sort the Subject ids [1,30] and activity names[laying, sitting, standing, walking, walking downstairs, walking upstairs], getting rid of repetitions
 * Get a subset of the original data for each subject within each activity and add the mean to a new matrix
 * Rename the columns properly
 * Output the second file - tidyData-Means.txt
