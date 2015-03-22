@@ -15,5 +15,5 @@ To get the results of the analysis follow the next steps:
 
 * unzip the data and copy it with the run_analysis.R file to your working directory.
 * run the script, which produces two files: tidyData.txt and tidyData-Means.txt
-1. tidyData.txt contains the cleaned, merged and labeled data from the test and train sets
-2. tidyDataMeans.txt contains the cleaned mean and std data.
+ * tidyData.txt contains the cleaned, merged and labeled data from the test and train sets
+ * tidyDataMeans.txt contains the cleaned mean and std data.
