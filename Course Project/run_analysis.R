@@ -86,8 +86,8 @@ DataMeans=DataMeans[-1,]
 rownames(DataMeans)=NULL
 colnames(DataMeans) = c("Activity","Subject",colnames(DataMeans)[3:length(colnames(DataMeans))])
 head(DataMeans)
-write.table(DataMeans,"D:/R/Getting and Cleaning Data/tidyData-Means.txt")
-write.table(DataMeans,"D:/R/Getting and Cleaning Data/tidyData-Means2.txt",row.name=F)
+#write.table(DataMeans,"D:/R/Getting and Cleaning Data/tidyData-Means2.txt")
+write.table(DataMeans,"D:/R/Getting and Cleaning Data/tidyData-Means.txt",row.name=F)
 
 
 

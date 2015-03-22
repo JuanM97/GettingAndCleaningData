@@ -11,3 +11,8 @@ The data used for the project is available in:
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
+To get the results of the analysis follow the next steps:
+
+* unzip the data and copy it with the run_analysis.R file to your working directory.
+## run the script, which produces two files: tidyData.txt and tidyData-Means.txt
+### tidyData.txt contains
